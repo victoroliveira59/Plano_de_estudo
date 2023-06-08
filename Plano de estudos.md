@@ -1,4 +1,4 @@
-# Estudos
+# :books: Estudos
 
 - [x]  Perfil profissional
 - [x]  Criar perfil Wakatime
