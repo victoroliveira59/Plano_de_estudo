@@ -2,7 +2,7 @@
 
 - [x]  Perfil profissional
 - [x]  Criar perfil Wakatime
-- [ ]  Lógica de programação
-- [ ]  Git e Github (compreender)
-- [ ]  Ter a mente de programador
-- [ ]  Linguagem Ruby
+- [x]  Lógica de programação
+- [x]  Git e Github (compreender)
+- [x]  Ter a mente de programador
+- [x]  Linguagem Ruby
